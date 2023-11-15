@@ -12,7 +12,7 @@ STRING imagine6220!
 TAB
 ENTER
 DELAY 1000
-ALT d
+CTRL t
 DELAY 250
 STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
 ENTER
