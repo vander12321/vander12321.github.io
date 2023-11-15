@@ -1,0 +1,19 @@
+DELAY 2000
+CTRL t
+DELAY 1000
+STRING https://www.youtube.com
+ENTER
+DELAY 2000
+TAB
+ENTER
+TAB
+TAB
+STRING imagine6220!
+TAB
+ENTER
+DELAY 1000
+ALT d
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
+ENTER
+DELAY 5000
+STRING f
